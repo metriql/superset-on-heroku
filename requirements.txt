@@ -56,8 +56,5 @@ SQLAlchemy
 SQLAlchemy-Utils
 sqlparse
 apache-superset
-thrift
-thrift-sasl
-thriftpy
 Werkzeug
 WTForms
