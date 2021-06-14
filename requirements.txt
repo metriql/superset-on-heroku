@@ -30,7 +30,7 @@ idna==2.5
 itsdangerous==0.24
 Jinja2==2.9.6
 jmespath==0.9.3
-kombu==3.0.37
+kombu==5.0.1
 Mako==1.0.6
 Markdown==2.6.8
 MarkupSafe==2.0.1
