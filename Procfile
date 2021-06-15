@@ -1,1 +1,1 @@
-web: superset db upgrade && superset init
+web: superset db upgrade && superset init && superset run
